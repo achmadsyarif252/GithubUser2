@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Github User\'s App</string>
+    <string name="cari">Cari</string>
+    <string name="search_hint">Masukkan username</string>
+    <string name="guide">Msaukkan username\nUntuk mencari Github User</string>
+    <string name="repo">%1$d Repository</string>
+    <string name="content_tab_following">Following</string>
+    <string name="content_tab_follower">Followers</string>
+    <string name="follow">%1d Following || %1d Followers</string>
+    <string name="titleDetail">Detail User</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="emptyvalue">-</string>
+    <string name="contentDesc">Foto profil user</string>
+    <string name="ok">OK</string>
+    <string name="empty_follower">Belum ada follower</string>
+    <string name="empty_following">Belum mengikuti siapapun</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="set_theme">Setting Tema</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="delete">Hapus</string>
+    <string name="message_delete">Hapus dari daftar favorite ?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="guide_add_favorite">Daftar favorit masih kosong\nLakukan pencarian dan tekan tombol favorit untuk menambahkan</string>
+    <string name="theme_setting">Pengaturan Tema</string>
+    <string name="favorite">Favorite</string>
+    <string name="title">Detail Favorite User</string>
+</resources>
